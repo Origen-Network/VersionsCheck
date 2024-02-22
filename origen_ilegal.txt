@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":""}
+{"version":"1.0.1", "notes":"Add Configuration option for member limits for gangs | Add Configuration option for drug price variation based on territories | Add Default compatibility with the drawtext system of the origin_notify | For more information see Discord changelogs"}
