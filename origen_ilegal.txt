@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Add Configuration option for member limits for gangs | Add Configuration option for drug price variation based on territories | Add Default compatibility with the drawtext system of the origin_notify | For more information see Discord changelogs"}
+{"version":"1.0.2", "notes":"Several errors were fixed with the graffiti system | Errors with the territory system were fixed | The dependency on origen_ilegal_menu was removed | For more information see Discord changelogs"}
