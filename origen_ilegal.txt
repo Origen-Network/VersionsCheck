@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Several errors were fixed with the graffiti system | Errors with the territory system were fixed | The dependency on origen_ilegal_menu was removed | For more information see Discord changelogs"}
+{"version":"1.0.3", "notes":"An integrated drawtext feature has been added | A management panel has been added for administration | For more information see Discord changelogs"}
