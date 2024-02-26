@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":""}
+{"version":"1.0.1", "notes":"All integration issues in ESX have been resolved | Errors in QBCore have been fixed | Exports have been added to the readme.md file | For more information see Discord changelogs"}
